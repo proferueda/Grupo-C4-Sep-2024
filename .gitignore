@@ -1,9 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/netbeans,intellij,intellij+all,intellij+iml,visualstudio,visualstudiocode,visualbasic,python,pythonvanilla,pycharm,pycharm+all,pycharm+iml,eclipse,java,perl,rust,c++,windows,linux,macos,vim,microsoftoffice
 # Edit at https://www.toptal.com/developers/gitignore?templates=netbeans,intellij,intellij+all,intellij+iml,visualstudio,visualstudiocode,visualbasic,python,pythonvanilla,pycharm,pycharm+all,pycharm+iml,eclipse,java,perl,rust,c++,windows,linux,macos,vim,microsoftoffice
 
+### WINDOWS ###
+desktop.ini
+
 ### C++ ###
-# Prerequisites
-*.d
+# Prerequisites*.d
 
 # Compiled Object files
 *.slo
