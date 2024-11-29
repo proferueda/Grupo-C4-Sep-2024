@@ -4,6 +4,10 @@
 ### WINDOWS ###
 desktop.ini
 
+### GOOGLE DRIVE ###
+*.gdoc
+*.gsheet
+
 ### C++ ###
 # Prerequisites*.d
 
