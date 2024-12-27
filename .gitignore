@@ -2,7 +2,11 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=netbeans,intellij,intellij+all,intellij+iml,visualstudio,visualstudiocode,visualbasic,python,pythonvanilla,pycharm,pycharm+all,pycharm+iml,eclipse,java,perl,rust,c++,windows,linux,macos,vim,microsoftoffice
 
 ### WINDOWS ###
+# Windows system files
 desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
 
 ### GOOGLE DRIVE ###
 *.gdoc
@@ -383,7 +387,8 @@ replay_pid*
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
